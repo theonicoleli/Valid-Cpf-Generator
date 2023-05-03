@@ -75,4 +75,4 @@ while True:
                     cpf_formatado = formater(cpf)
                     print(cpf_formatado)
     except:
-        print('Escolha o número correto!')
+        continue
