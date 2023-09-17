@@ -1,2 +1,3 @@
-# Projeto_Gerador_CPF_Valido
-Projeto de Gerador de CPF Válido
+# CPF Studies
+
+### Valid cpf creation project and cpf checker
